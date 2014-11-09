@@ -30,8 +30,15 @@ Once this is open copy and paste this command. This command depends on having Po
 powershell Invoke-WebRequest https://bootstrap.pypa.io/get-pip.py -OutFile $home\get-pip.py;C:\Python27\python $home\get-pip.py
 ~~~
 
-
 ### Installing mkdocs
+
+Use the `run` command by pressing this key combination:
+
+~~~
+Windows Key + r
+~~~
+
+![](cmd.png)
 
 **Optional:** To Set the required `PATH` per `cmd` session use this command:
 
@@ -73,6 +80,14 @@ Python 3
 ![](fix-2.png)
 
 ### Installing mkdocs
+
+Use the `run` command by pressing this key combination:
+
+~~~
+Windows Key + r
+~~~
+
+![](cmd.png)
 
 **Optional:** To Set the required `PATH` per `cmd` session use this command:
 
